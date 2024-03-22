@@ -1,0 +1,12 @@
+*::selection {
+  background: yellow;
+  color: black;
+}
+.active {
+  background: #262627;
+}
+.hov:hover {
+  background: #262627;
+}
+
+
